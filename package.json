@@ -1,0 +1,12 @@
+{
+  "name": "comp2156kulbir",
+  "version": "1.0.0",
+  "description": "COMP2156kulbir lab_exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" "
+  },
+  "keywords": [],
+  "author": "Kulbir kaur",
+  "license": "ISC"
+}
